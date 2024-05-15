@@ -19,4 +19,4 @@ This Sales Data Dashboard is designed to provide a comprehensive overview of sal
 * Explore the dashboard by interacting with the visualizations and using filtering options.
 
 # Data Sources
-The sales data used in this dashboard is sourced from our internal sales database.[clickhere]([The sales data used in this dashboard is sourced from our internal sales database.](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1UwcnFxRTZ5WWVDRVMzSTgxcl80NWNlY1NId3xBQ3Jtc0tubHdjLWJoeGc5cXVPQll4MmwwYXlmcWZ2Mi1RckFqTV91MlBTTVphQTJzaDIyRWliUDFFN05SS01UemlYbEJINFR0WkQxMnZMQUxrRTJmNzByRkRMZU43OXlzbHNUTWNfVy1tSk1TSXNZem10RVRwYw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Gc_nr7FdnkCsY5hCcF7-80FXgJyjVrYU%2Fview%3Fusp%3Dshare_link&v=6OMR81faW54))
+The sales data used in this dashboard is sourced from our internal sales database.[clickhere](https://drive.google.com/file/d/1Gc_nr7FdnkCsY5hCcF7-80FXgJyjVrYU/view?usp=sharing)
