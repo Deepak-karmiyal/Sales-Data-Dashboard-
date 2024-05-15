@@ -1,10 +1,10 @@
 # Sales Data Dashboard
 
-## Overview
+# Overview
 This Sales Data Dashboard is designed to provide a comprehensive overview of sales performance metrics through interactive visualizations and analysis. Leveraging Excel's powerful features, this dashboard offers insights into sales trends, product performance, customer behavior, and more.
 
 
-Features
+# Features
 * Interactive Visualizations: Easily explore sales data through dynamic charts and graphs.
 * Key Metrics: Track important KPIs such as total sales, revenue, and product performance.
 * Filtering Options: Customize views based on date range, product category, or customer segment.
