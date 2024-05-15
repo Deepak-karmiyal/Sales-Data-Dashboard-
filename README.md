@@ -20,3 +20,11 @@ This Sales Data Dashboard is designed to provide a comprehensive overview of sal
 
 # Data Sources
 The sales data used in this dashboard is sourced from our internal sales database.[clickhere](https://drive.google.com/file/d/1Gc_nr7FdnkCsY5hCcF7-80FXgJyjVrYU/view?usp=sharing)
+
+# insights 
+* Top Selling Category: Phones led sales in 2017.
+* Profitable Sector: Technology sector saw increased profitability over 2017.
+* Highest Revenue City: California generated the highest revenue.
+* Customer Count: 2017 witnessed the highest number of customers.
+* Peak Selling Months: November and December were the highest-selling months.
+* Top Profit Gainers: Tamara Chand, Raymond Buch, and Sanjit Chand stood out as top profit gainers.
