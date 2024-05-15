@@ -19,7 +19,7 @@ This Sales Data Dashboard is designed to provide a comprehensive overview of sal
 * Explore the dashboard by interacting with the visualizations and using filtering options.
 
 # Data Sources
-The sales data used in this dashboard is sourced from our internal sales database.[clickhere](https://drive.google.com/file/d/1Gc_nr7FdnkCsY5hCcF7-80FXgJyjVrYU/view?usp=sharing)
+Sales data sourced from internal database.[clickhere](https://drive.google.com/file/d/1Gc_nr7FdnkCsY5hCcF7-80FXgJyjVrYU/view?usp=sharing) for more details.
 
 # insights 
 * Top Selling Category: Phones led sales in 2017.
